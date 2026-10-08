@@ -1,0 +1,11 @@
+item,category,revenue,units_sold,orders
+Item_3_EHE,Electric Household Essentials,224.0,28,5
+Item_5_BEV,Beverages,517.0,47,7
+Item_4_CEA,Computers and Electric Accessories,636.5,67,12
+Item_1_CEA,Computers and Electric Accessories,645.0,129,26
+Item_1_FOOD,Food,715.0,143,28
+Item_2_FOOD,Food,793.0,122,22
+Item_21_PAT,Patisserie,805.0,23,6
+Item_13_BEV,Beverages,828.0,36,7
+Item_9_MILK,Milk Products,850.0,50,11
+Item_13_FUR,Furniture,920.0,40,7

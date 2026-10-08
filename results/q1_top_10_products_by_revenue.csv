@@ -1,0 +1,11 @@
+item,category,revenue,units_sold,orders
+Item_25_FUR,Furniture,25625.0,625,115
+Item_25_EHE,Electric Household Essentials,25502.0,622,108
+Item_25_BUT,Butchers,22427.0,547,100
+Item_24_FUR,Furniture,22080.5,559,109
+Item_25_FOOD,Food,21771.0,531,96
+Item_22_BUT,Butchers,21462.0,588,108
+Item_23_BUT,Butchers,20596.0,542,102
+Item_19_MILK,Milk Products,20448.0,639,115
+Item_23_EHE,Electric Household Essentials,20178.0,531,97
+Item_23_PAT,Patisserie,19684.0,518,93
