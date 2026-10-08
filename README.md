@@ -32,7 +32,7 @@ A retail store's raw sales export was unusable for reporting: **~40% of rows had
 ## 🛠️ Tools & Skills Demonstrated
 
 - **Python** (pandas, matplotlib, sqlite3, pathlib)
-- **SQL** (SQLite): `GROUP BY`, `CASE`, CTEs, window functions (`SUM() OVER`, `LAG()`), `UNION ALL`
+- **SQL** (SQLite): `GROUP BY`, CTEs, window functions (`SUM() OVER`, `LAG()`), `UNION ALL`
 - **Data cleaning:** missing-value recovery, type fixing, deduplication, validation checks
 - **Database design:** primary keys, `NOT NULL` / `CHECK` constraints, indexes
 - **Data visualization** and business storytelling
@@ -166,7 +166,7 @@ The top 10 products have an average unit price of **38.6 vs 23.0** for the full 
 → *Recommendation: prioritize stock and promotion of top-tier items in each category.*
 
 **2. January is the strongest month, every year.**
-January averages **~49.6k** in revenue vs **~41.7k** for the other months (**+19%**), and Jan 2022 is the all-time peak at 52.9k. December is also slightly above average. Monthly revenue is otherwise fairly flat.
+January averages ~49.6k in revenue vs ~41.7k for the other months (+19%). It was the top month in 2022 and 2023, and second only to December in 2024. Jan 2022 is the all-time peak at 52.9k. December is also slightly above average. Monthly revenue is otherwise fairly flat.
 → *Recommendation: plan inventory and staffing ahead of the December–January peak.*
 
 **3. Revenue is healthy and well-diversified.**
@@ -195,7 +195,7 @@ The 10 lowest-revenue products have an average of just **13 orders vs 60** for t
 ## 🚀 How to Run
 
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/ArnavTinkalKr/retail-sales-analysis.git>
 cd retail-sales-analysis
 pip install -r requirements.txt
 
@@ -210,11 +210,10 @@ To explore the database yourself, open `data/processed/retail_sales.db` with [DB
 
 ## 📬 About Me / Work With Me
 
-I'm **[Your Name]**, a data freelancer specializing in **data cleaning, SQL reporting and analysis with Python**. If you have messy spreadsheets or databases that need to become reliable reports, I can help.
+I'm **TINKAL KUMAR**, a data freelancer specializing in **data cleaning, SQL reporting and analysis with Python**. If you have messy spreadsheets or databases that need to become reliable reports, I can help.
 
-- 📧 Email: **[your-email]**
-- 💼 Upwork: **[your-profile-link]**
-- 🟢 Fiverr: **[your-profile-link]**
-- 🔗 LinkedIn: **[your-profile-link]**
+- 📧 Email: **tinkal7549@gmail.com**
+- 💼 Upwork: **https://www.upwork.com/freelancers/~01f5fa966e964a7e94**
+- 🔗 LinkedIn: **https://www.linkedin.com/in/tinkal**
 
 *Dataset: "Retail Store Sales" (Kaggle). Used here for educational and portfolio purposes.*
